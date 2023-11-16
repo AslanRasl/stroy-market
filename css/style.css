@@ -544,11 +544,9 @@ line-height: 20px; /* 153.846% */
 }
 .drill{
     position: absolute;
-   margin-top: -60px;
-   margin-left: 1350px;
-}
-.vid{
-
+    margin-top: -500px;
+   right: 230px;
+   
 }
 .novo{
 align-items: center;
@@ -638,7 +636,7 @@ line-height: 20px; /* 142.857% */
 .opilka{
     position: absolute;
     margin-top: -65px;
-    margin-left: 240px;
+    margin-left: -150px;
 }
 .project__bg {
   background: url(../img/right-arrow-black-square-button\ 2.png), url(../img/right-arrow-black-square-button\ 1.png);
